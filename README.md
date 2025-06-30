@@ -19,12 +19,12 @@
 ## Tools & Technologies Used
 
 - **Python 3**
-- [Jupyter Notebook]
-- [Pandas]
-- [NumPy]
-- [Matplotlib]
-- [Seaborn]
-- [Plotly]
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 
 ---
 
